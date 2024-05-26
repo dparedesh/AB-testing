@@ -12,4 +12,4 @@ For every one of them, there is a **Background** description at the beginning of
 - Linear regression
 - Machine learning
 
-
+The background description and data used in these projects were taken from the **Google Advanced Data Analytics Professional Certificate.**
